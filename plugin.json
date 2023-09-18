@@ -1,0 +1,8 @@
+{
+    "name": "GeoIP",
+    "url": "https://github.com/AnalyticKit/analytickit-plugin-geoip",
+    "description": "Enrich AnalyticKit events and persons with IP location data",
+    "main": "index.ts",
+    "analytickitVersion": ">=1.24.0",
+    "stateless": true
+}
