@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@analytickit/plugin-scaffold@github:AnalyticKit/plugin-scaffold":
+  version "0.4.2"
+  resolved "https://codeload.github.com/AnalyticKit/plugin-scaffold/tar.gz/35040ed41a7a23638bbef26384d6bd5838d909f9"
+  dependencies:
+    "@maxmind/geoip2-node" "^2.3.1"
+
 "@babel/code-frame@7.12.11":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.12.11.tgz#f4ad435aa263db935b8f10f2c552d23fb716a63f"
@@ -538,12 +544,6 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
-
-"@analytickit/plugin-scaffold@github:AnalyticKit/plugin-scaffold":
-  version "0.4.2"
-  resolved "https://codeload.github.com/AnalyticKit/plugin-scaffold/tar.gz/35040ed41a7a23638bbef26384d6bd5838d909f9"
-  dependencies:
-    "@maxmind/geoip2-node" "^2.3.1"
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.2"
@@ -3403,9 +3403,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 mixin-deep@^1.2.0:
   version "1.3.2"
