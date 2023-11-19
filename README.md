@@ -36,7 +36,7 @@ They are also set on the associated person same as above, plus set_once in `$ini
 
 View of an example event in AnalyticKit:
 
-<img width="708" alt="GeoIP properties in AnalyticKit UI" src="https://user-images.githubusercontent.com/4550621/114558202-bc076600-9c6a-11eb-9c0e-1bd3cc1f3dd7.png">
+
 
 ## Caveats
 
